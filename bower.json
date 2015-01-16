@@ -1,0 +1,20 @@
+{
+  "name": "mob-site",
+  "version": "0.0.0",
+  "description": "template for mobile site using PolymerJS",
+  "main": "index.html",
+  "authors": [
+    "Saurabh Sharma (github: saursharma)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
